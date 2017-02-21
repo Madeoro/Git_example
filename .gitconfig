@@ -1,0 +1,13 @@
+[user]
+	name = Francisco Matias
+	email = 2morgf94@solent.ac.uk
+[core]
+    editor = nano
+    whitespace = off
+    excludesfile = ~/.gitignore
+[advice]
+    statusuoption = false
+[color]
+    ui = true
+[push]
+    default = current
